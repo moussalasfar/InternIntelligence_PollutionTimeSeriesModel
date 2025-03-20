@@ -25,7 +25,8 @@ This project focuses on predicting **air pollution levels** using **time series 
 ### 3️⃣ **Model Evaluation**  
 ✔ Performance metrics:  
    - **Mean Absolute Error (MAE)**  
-   - **Root Mean Squared Error (RMSE)**  
+   - **Root Mean Squared Error (RMSE)**
+
 ✔ Compared actual vs. predicted values with visualizations  
 
 ## 📈 Results & Insights  
